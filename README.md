@@ -1,6 +1,6 @@
-# Project Pro: CycleGAN-Implementation-for-Image-To-Image-Translation
+# CycleGAN-Implementation-for-Image-To-Image-Translation
 
-Welcome to Project Pro! 🚀 In this project, we've implemented CycleGAN for image-to-image translation using PyTorch. CycleGAN is a powerful deep learning model that learns to translate images from one domain to another without paired examples.
+ 🚀 In this project, we've implemented CycleGAN for image-to-image translation using PyTorch. CycleGAN is a powerful deep learning model that learns to translate images from one domain to another without paired examples.
 
 ## Overview
 
